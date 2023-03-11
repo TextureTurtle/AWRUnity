@@ -1,0 +1,1983 @@
+{
+  "Files": [
+    {
+      "Name": "unity default resources",
+      "Assets": [
+        {
+          "PathID": 11998,
+          "Name": "DeveloperConsole",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11999,
+          "Name": "UserAuthorizationDialog",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 12000,
+          "Name": "Terrain",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 12001,
+          "Name": "GUISkin",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1,
+          "Name": "Normal-DiffuseFast",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 2,
+          "Name": "Normal-Bumped",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 3,
+          "Name": "Normal-Glossy",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 4,
+          "Name": "Normal-BumpSpec",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 5,
+          "Name": "Normal-DiffuseDetail",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 6,
+          "Name": "Normal-VertexLit",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 7,
+          "Name": "Normal-Diffuse",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 8,
+          "Name": "Normal-Parallax",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 9,
+          "Name": "Normal-ParallaxSpec",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 10,
+          "Name": "Illumin-Diffuse",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 11,
+          "Name": "Illumin-Bumped",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 12,
+          "Name": "Illumin-Glossy",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 13,
+          "Name": "Illumin-BumpSpec",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 14,
+          "Name": "Illumin-VertexLit",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 15,
+          "Name": "Illumin-Parallax",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 16,
+          "Name": "Illumin-ParallaxSpec",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 20,
+          "Name": "Reflect-Diffuse",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 21,
+          "Name": "Reflect-Bumped",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 22,
+          "Name": "Reflect-Glossy",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 23,
+          "Name": "Reflect-BumpSpec",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 24,
+          "Name": "Reflect-VertexLit",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 25,
+          "Name": "Reflect-BumpNolight",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 26,
+          "Name": "Reflect-BumpVertexLit",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 27,
+          "Name": "Reflect-Parallax",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 28,
+          "Name": "Reflect-ParallaxSpec",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 30,
+          "Name": "Alpha-Diffuse",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 31,
+          "Name": "Alpha-Bumped",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 32,
+          "Name": "Alpha-Glossy",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 33,
+          "Name": "Alpha-BumpSpec",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 34,
+          "Name": "Alpha-VertexLit",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 35,
+          "Name": "Alpha-Parallax",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 36,
+          "Name": "Alpha-ParallaxSpec",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 50,
+          "Name": "AlphaTest-VertexLit",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 51,
+          "Name": "AlphaTest-Diffuse",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 52,
+          "Name": "AlphaTest-Bumped",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 53,
+          "Name": "AlphaTest-Glossy",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 54,
+          "Name": "AlphaTest-BumpSpec",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 60,
+          "Name": "Shadow-ScreenBlur",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 61,
+          "Name": "Camera-DepthTexture",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 62,
+          "Name": "Camera-DepthNormalTexture",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 63,
+          "Name": "Internal-PrePassLighting",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 64,
+          "Name": "Internal-PrePassCollectShadows",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 65,
+          "Name": "Internal-CombineDepthNormals",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 66,
+          "Name": "Internal-BlitCopy",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 67,
+          "Name": "Shadow-ScreenBlurRotated",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 68,
+          "Name": "Internal-Clear",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 100,
+          "Name": "",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 101,
+          "Name": "Flare",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 102,
+          "Name": "Internal-Flare",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 103,
+          "Name": "skybox cubed",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 104,
+          "Name": "Skybox",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 105,
+          "Name": "Internal-Halo",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 200,
+          "Name": "Particle Add",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 201,
+          "Name": "Particle AddMultiply",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 202,
+          "Name": "Particle AddSmooth",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 203,
+          "Name": "Particle Alpha Blend",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 205,
+          "Name": "Particle Multiply",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 206,
+          "Name": "Particle MultiplyDouble",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 207,
+          "Name": "Particle Premultiply Blend",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 208,
+          "Name": "Particle VertexLit Blended",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 9000,
+          "Name": "Internal-GUITextureClip",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 9001,
+          "Name": "Internal-GUITextureClipText",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 9002,
+          "Name": "Internal-GUITexture",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 9003,
+          "Name": "Internal-GUITextureBlit",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 10001,
+          "Name": "Soft",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10101,
+          "Name": "Font",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 10103,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10200,
+          "Name": "pSphere1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10202,
+          "Name": "Cube",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10203,
+          "Name": "pCylinder1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10204,
+          "Name": "pPlane1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10205,
+          "Name": "polySurface2",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10206,
+          "Name": "Cylinder",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10207,
+          "Name": "Sphere",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10208,
+          "Name": "Capsule",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10209,
+          "Name": "Plane",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10300,
+          "Name": "Default-Particle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10400,
+          "Name": "UnityWatermark-small",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10401,
+          "Name": "EscToExit_back",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10402,
+          "Name": "EscToExit_Text",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10403,
+          "Name": "UnitySplash",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10404,
+          "Name": "UnitySplash2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10405,
+          "Name": "UnitySplash3",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10406,
+          "Name": "UnitySplashBack",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10407,
+          "Name": "UnityWatermark-trial",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10408,
+          "Name": "UnityWatermark-beta",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10409,
+          "Name": "UnityWatermark-edu",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10410,
+          "Name": "UnityWatermark-dev",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10411,
+          "Name": "WarningSign",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10412,
+          "Name": "UnityWatermark-DebugFlashPlayer",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10413,
+          "Name": "UnityWatermark-proto",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10414,
+          "Name": "UnityWatermarkPlugin-beta",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10500,
+          "Name": "VertexLit",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 10501,
+          "Name": "WavingGrass",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 10502,
+          "Name": "WavingGrassBillboard",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 10503,
+          "Name": "AddPass",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 10505,
+          "Name": "FirstPass",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 10507,
+          "Name": "BillboardTree",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 10512,
+          "Name": "AlphaTest-SoftEdgeUnlit",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 11001,
+          "Name": "box",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11002,
+          "Name": "button active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11003,
+          "Name": "button hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11004,
+          "Name": "button on hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11005,
+          "Name": "button on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11006,
+          "Name": "button",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11007,
+          "Name": "horizontal scrollbar thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11008,
+          "Name": "horizontal scrollbar",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11009,
+          "Name": "horizontalslider",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11010,
+          "Name": "slider thumb active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11011,
+          "Name": "slider thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11012,
+          "Name": "slidert humb hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11013,
+          "Name": "toggle active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11014,
+          "Name": "toggle hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11015,
+          "Name": "toggle on hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11016,
+          "Name": "toggle on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11017,
+          "Name": "toggle on active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11018,
+          "Name": "toggle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11019,
+          "Name": "vertical scrollbar thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11020,
+          "Name": "vertical scrollbar",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11021,
+          "Name": "verticalslider",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11022,
+          "Name": "window on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11023,
+          "Name": "window",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11024,
+          "Name": "textfield",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11025,
+          "Name": "textfield on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11026,
+          "Name": "textfield hover",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets0.assets",
+      "Assets": [
+        {
+          "PathID": 159,
+          "Name": "FuelGauge",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 160,
+          "Name": "CameraInfo",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 161,
+          "Name": "DVector3",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 162,
+          "Name": "Crease",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 163,
+          "Name": "BlockInitializer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 164,
+          "Name": "GlowEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 165,
+          "Name": "NoiseAndGrain",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 166,
+          "Name": "BalloonJoint",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 167,
+          "Name": "Game",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 168,
+          "Name": "World",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 169,
+          "Name": "Focusable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 170,
+          "Name": "PlayerInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 171,
+          "Name": "SunShafts",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 172,
+          "Name": "BodyController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 173,
+          "Name": "VirtualAudioObject",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 174,
+          "Name": "InteractableEffects",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 175,
+          "Name": "MathX",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 176,
+          "Name": "AdaptiveTrailRenderer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 177,
+          "Name": "Balloon",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 178,
+          "Name": "DepthOfField34",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 179,
+          "Name": "AuroraInputSerializer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 180,
+          "Name": "GrayscaleEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 181,
+          "Name": "ItemDescriptor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 182,
+          "Name": "PlayerCursor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 183,
+          "Name": "GuiChangeMonitor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 184,
+          "Name": "RoundRobinSound",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 185,
+          "Name": "PhysicsUtils",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 186,
+          "Name": "WorldStreamer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 187,
+          "Name": "Pickup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 188,
+          "Name": "BlurEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 189,
+          "Name": "GrapplingHookLauncher",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 190,
+          "Name": "GlobalFog",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 191,
+          "Name": "VirtualLowPassFilter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 192,
+          "Name": "OVRImageEffectBase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 193,
+          "Name": "Compass",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 194,
+          "Name": "Triangles",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 195,
+          "Name": "Block",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 196,
+          "Name": "OVRCamera",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 197,
+          "Name": "VirtualHighPassFilter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 198,
+          "Name": "Player",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 199,
+          "Name": "MotionBlur",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 200,
+          "Name": "LinuxInputTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 201,
+          "Name": "CameraManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 202,
+          "Name": "VirtualDistortionFilter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 203,
+          "Name": "Controllable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 204,
+          "Name": "IListenable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 205,
+          "Name": "IBlockLoader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 206,
+          "Name": "EdgeDetectEffectNormals",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 207,
+          "Name": "SpawnPool",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 208,
+          "Name": "PostEffectsHelper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 209,
+          "Name": "VirtualAudioManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 210,
+          "Name": "PlayerCursorGui",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 211,
+          "Name": "Flag",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 212,
+          "Name": "CollisionSource",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 213,
+          "Name": "VirtualAudioSource",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 214,
+          "Name": "GuiExtensions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 215,
+          "Name": "SettingsSerializer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 216,
+          "Name": "Burner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 217,
+          "Name": "VirtualAudioFilter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 218,
+          "Name": "Drag",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 219,
+          "Name": "RigidbodyTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 220,
+          "Name": "MonoBehaviourExtensions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 221,
+          "Name": "CenterOfMass",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 222,
+          "Name": "BurnerMount",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 223,
+          "Name": "PerlinSingle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 224,
+          "Name": "WorldTransform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 225,
+          "Name": "Fisheye",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 226,
+          "Name": "SkySphere",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 227,
+          "Name": "OVRDevice",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 228,
+          "Name": "AnimationCurveUtils",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 229,
+          "Name": "Interactable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 230,
+          "Name": "ColorCorrectionCurves",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 231,
+          "Name": "DebugBurner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 232,
+          "Name": "GearMount",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 233,
+          "Name": "BalloonDebugGUI",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 234,
+          "Name": "ImageEffects",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 235,
+          "Name": "PressureReleaseValve",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 236,
+          "Name": "StreamedObject",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 237,
+          "Name": "GraphicsSettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 238,
+          "Name": "ScreenFader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 239,
+          "Name": "VirtualChorusFilter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 240,
+          "Name": "CustomGlobalFog",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 241,
+          "Name": "StreamlineEmitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 242,
+          "Name": "UPath",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 243,
+          "Name": "LandmassStreamer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 244,
+          "Name": "PlayerInteractionEffects",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 245,
+          "Name": "VirtualRoundRobinSound",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 246,
+          "Name": "SepiaToneEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 247,
+          "Name": "PressureReleaseValveEffects",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 248,
+          "Name": "BundleLoader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 249,
+          "Name": "KillZone",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 250,
+          "Name": "PlayerCamera",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 251,
+          "Name": "GrapplingHook",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 252,
+          "Name": "DoorEffects",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 253,
+          "Name": "IVirtualAudioComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 254,
+          "Name": "Bloom",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 255,
+          "Name": "NoiseEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 256,
+          "Name": "VortexEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 257,
+          "Name": "AntialiasingAsPostEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 258,
+          "Name": "ProceduralTerrain",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 259,
+          "Name": "BalloonJointManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 260,
+          "Name": "SSAOEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 261,
+          "Name": "GearMountHighlighter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 262,
+          "Name": "BurnerEffects",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 263,
+          "Name": "WindAmbienceSound",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 264,
+          "Name": "BlockLoaders",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 265,
+          "Name": "VirtualAudioComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 266,
+          "Name": "TwirlEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 267,
+          "Name": "Vignetting",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 268,
+          "Name": "RopeEffects",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 269,
+          "Name": "ColorCorrectionLut",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 270,
+          "Name": "PlayerAnimator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 271,
+          "Name": "AeroManagerPerformance",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 272,
+          "Name": "CollisionEffects",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 273,
+          "Name": "Location",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 274,
+          "Name": "ControllableEffects",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 275,
+          "Name": "VirtualReverbFilter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 276,
+          "Name": "LayerMasks",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 277,
+          "Name": "BloomAndLensFlares",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 278,
+          "Name": "VirtualAudioListener",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 279,
+          "Name": "WindSimulationSound",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 280,
+          "Name": "Mathd",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 281,
+          "Name": "TestCraft",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 282,
+          "Name": "MenuGui",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 283,
+          "Name": "PostEffectsBase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 284,
+          "Name": "AeroManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 285,
+          "Name": "TiltShift",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 286,
+          "Name": "Tonemapping",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 287,
+          "Name": "GrapplingHookEffects",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 288,
+          "Name": "OVRCameraController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 289,
+          "Name": "Door",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 290,
+          "Name": "EdgeDetectEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 291,
+          "Name": "ContrastEnhance",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 292,
+          "Name": "WindVisualizer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 293,
+          "Name": "FredericFlagSpawner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 294,
+          "Name": "ScreenOverlay",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 295,
+          "Name": "ColorCorrectionEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 296,
+          "Name": "ContrastStretchEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 297,
+          "Name": "PluginDefines",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 298,
+          "Name": "DepthOfFieldScatter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 299,
+          "Name": "Quads",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 300,
+          "Name": "VirtualEchoFilter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 301,
+          "Name": "OVRLensCorrection",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 302,
+          "Name": "ImageEffectBase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 303,
+          "Name": "CameraMotionBlur",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 304,
+          "Name": "PreRuntimePoolItem",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 305,
+          "Name": "SerializableDictionary",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 306,
+          "Name": "BalloonTemperatureGauge",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 307,
+          "Name": "PoolManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 308,
+          "Name": "LandmassStreamerDebugGui",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 309,
+          "Name": "FuelCanister",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 310,
+          "Name": "VerticalSpeedGauge",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 311,
+          "Name": "SingletonComponent\u00601",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 312,
+          "Name": "InputManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 36,
+          "Name": "SplatAlpha 0",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 37,
+          "Name": "SplatAlpha 0",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 38,
+          "Name": "Letter-Jebe",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 39,
+          "Name": "Overcast1_up",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 40,
+          "Name": "Vessel-Wood-pole-rails-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 41,
+          "Name": "Overcast1_left",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 42,
+          "Name": "aarde-512x512",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 43,
+          "Name": "steen-512x512",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 44,
+          "Name": "gauge-nutral",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 45,
+          "Name": "gascan-small-tex-red",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 46,
+          "Name": "skull-2-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 47,
+          "Name": "box-small-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 48,
+          "Name": "release-valve-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 49,
+          "Name": "Vessel-Wood-door-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 50,
+          "Name": "Vessel-Wood-hatch-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 51,
+          "Name": "panel-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 52,
+          "Name": "crosshair-ring",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 53,
+          "Name": "char-jebe-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 54,
+          "Name": "box-big-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 55,
+          "Name": "flag-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 56,
+          "Name": "char-frits-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 57,
+          "Name": "Overcast1_right",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 58,
+          "Name": "claw-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 59,
+          "Name": "Overcast1_down",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 60,
+          "Name": "Crane-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 61,
+          "Name": "Vessel-Wood-roof-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 62,
+          "Name": "sneeuw-512x512",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 63,
+          "Name": "BurnerSmall",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 64,
+          "Name": "balloon-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 65,
+          "Name": "compass-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 66,
+          "Name": "Vessel-Wood-base-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 67,
+          "Name": "Overcast1_back",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 68,
+          "Name": "Overcast1_front",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 69,
+          "Name": "Letter-background",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 70,
+          "Name": "zand-512x512",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 71,
+          "Name": "gascan-big-tex-red",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 72,
+          "Name": "Vessel-Wood-hatch-fuel-tex",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 73,
+          "Name": "contrail",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 74,
+          "Name": "grass-512x512",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 75,
+          "Name": "Flag-gna",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 76,
+          "Name": "Skull",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 77,
+          "Name": "Colour-Ring",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 78,
+          "Name": "Pointer",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 79,
+          "Name": "box-big",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 80,
+          "Name": "Panel",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 81,
+          "Name": "Gauge",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 82,
+          "Name": "Base",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 83,
+          "Name": "Colour-Ring",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 84,
+          "Name": "Colour-rings",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 85,
+          "Name": "Jebedaih",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 86,
+          "Name": "Balloon",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 87,
+          "Name": "Panel",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 88,
+          "Name": "Cylinder",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 89,
+          "Name": "Panel",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 90,
+          "Name": "Frits",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 91,
+          "Name": "Colour-Ring",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 92,
+          "Name": "RV-mid",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 93,
+          "Name": "BoxSmall",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 94,
+          "Name": "claw2",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 95,
+          "Name": "gascan-small",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 96,
+          "Name": "Compass-base",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 97,
+          "Name": "Pointer",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 98,
+          "Name": "Roof",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 99,
+          "Name": "BurnerSmall",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 100,
+          "Name": "gascan-big",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 101,
+          "Name": "claw1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 102,
+          "Name": "Rail_and_Poles",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 103,
+          "Name": "winch",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 104,
+          "Name": "claw-base",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 105,
+          "Name": "turret",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 106,
+          "Name": "base",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 107,
+          "Name": "Door1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 108,
+          "Name": "Hatch1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 109,
+          "Name": "TreeSoftOcclusionBarkRendertex",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 110,
+          "Name": "TreeSoftOcclusionLeavesRendertex",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 111,
+          "Name": "CustomGlobalFog",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 119,
+          "Name": "amb_windHeavy",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 120,
+          "Name": "rnd_creak2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 121,
+          "Name": "sfx_grappleLatch0",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 122,
+          "Name": "07 Drift",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 123,
+          "Name": "burner",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 124,
+          "Name": "02 Lift",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 125,
+          "Name": "sfx_grappleLaunch0",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 126,
+          "Name": "sfx_mountItem4",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 127,
+          "Name": "servo",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 128,
+          "Name": "door_creak_0",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 129,
+          "Name": "04 Arctic",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 130,
+          "Name": "08 Rays",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 131,
+          "Name": "sfx_grappleReel_connect",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 132,
+          "Name": "rnd_creak1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 133,
+          "Name": "01 Haze",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 134,
+          "Name": "03 Atlas",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 135,
+          "Name": "amb_windMedium",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 136,
+          "Name": "sfx_collisionWood1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 137,
+          "Name": "05 Behind",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 138,
+          "Name": "sfx_collisionWood2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 139,
+          "Name": "sfx_grappleRelease",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 140,
+          "Name": "door_creak_1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 141,
+          "Name": "sfx_grappleReel_motor",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 142,
+          "Name": "amb_windLight",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 143,
+          "Name": "rnd_creak0",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 144,
+          "Name": "sfx_collisionWood0",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 145,
+          "Name": "sfx_stopFlame",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 146,
+          "Name": "sfx_mountItem2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 147,
+          "Name": "rnd_creak3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 148,
+          "Name": "06 Unending",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 149,
+          "Name": "sfx_ignite_click",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 150,
+          "Name": "depressurize",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 151,
+          "Name": "sfx_igniteFlame",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 152,
+          "Name": "sfx_mountItem0",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "maindata",
+      "Assets": []
+    }
+  ]
+}
