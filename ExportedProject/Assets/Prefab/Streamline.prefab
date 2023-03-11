@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1919554026452807}
+  m_IsPrefabParent: 1
+  m_IsExploded: 0
+--- !u!1 &1919554026452807
+GameObject:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - 4: {fileID: 4651675301262092}
+  - 114: {fileID: 114976572042231927}
+  m_Layer: 0
+  m_Name: Streamline
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4651675301262092
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1919554026452807}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 318.5912, y: 18.31434, z: 518.3701}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &114976572042231927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1919554026452807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2788eb385f4ccdf0e27b70ed9c39c0db, type: 3}
+  m_Name:
+  _material: {fileID: 2100000, guid: 3baaa5ca6bc9bd24db1838b80a5ca37c, type: 2}
+  _maxPointLifeTime: 12
+  _segments:
+  - Color: {r: 1, g: 1, b: 1, a: 0}
+    Width: 0
+  - Color: {r: 1, g: 1, b: 1, a: 0.24705882}
+    Width: 1
+  - Color: {r: 1, g: 1, b: 1, a: 0.30980393}
+    Width: 1
+  - Color: {r: 1, g: 1, b: 1, a: 0}
+    Width: 0
+  _widthMultiplier: 2
+  _angleLimit: 3
+  _minVertexDistance: 1
+  _maxVertexDistance: 6
+  _maxPoints: 32
